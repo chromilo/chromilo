@@ -1,4 +1,4 @@
-### Hi there, I am a Cloud Architect/Engineer, working towards my masters degree at Georgia Tech 👋
+### Hi there, I am a Cloud Architect/Engineer working towards my masters degree at Georgia Tech 👋
 
 <!--
 **chromilo/chromilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
