@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Cloud Native and AWS Machine Learning from Udacity
 - 👯 I’m looking to collaborate on hackathon projects that use microservices 
 - 🤔 I’m looking for help with improving my Github presence
-- 💬 Ask me about ...
+- 💬 Ask me about my life in Hawaii studying at UH of Manoa and working at Condo Tech Inc
 - 📫 How to reach me: [Contact Us form](https://www.aminsolutions.com/p/contact-us.html)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I used to live and study secondary school in Mufulira, Zambia, Africa.
 
