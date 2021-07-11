@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on hackathon projects that use microservices 
 - 🤔 I’m looking for help with improving my Github presence
 - 💬 Ask me about my life in Hawaii studying at UH of Manoa and working at Condo Tech Inc
-- 📫 How to reach me: [Contact Us form](https://www.aminsolutions.com/p/contact-us.html)
+- 📫 How to reach me: [fill out this form](https://www.aminsolutions.com/p/contact-us.html) or [or this form](https://www.chromiloamin.com/p/contact-us.html)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to live and study secondary school in Mufulira, Zambia, Africa.
 
