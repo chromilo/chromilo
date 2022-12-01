@@ -4,8 +4,8 @@
 **chromilo/chromilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on integration projects using Azure AI Text Translator with PointFire and new Azure Landing Zones
-- 🌱 I’m currently learning Cloud Native and AWS Machine Learning from Udacity
+- 🔭 I’m currently working on integration projects using Azure Runbooks, Webhooks, Functions - for middleware integration into HRIS system and Okta Workflows.
+- 🌱 I’m currently learning Kubernetes via Linux Foundation and Systems Programming via Georgia Tech
 - 👯 I’m looking to collaborate on hackathon projects that use microservices 
 - 🤔 I’m looking for help with improving my Github presence
 - 💬 Ask me about my life in Hawaii studying at UH of Manoa and working at Condo Tech Inc
