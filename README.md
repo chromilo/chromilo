@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on integration projects using Azure Runbooks, Webhooks, Functions - for middleware integration into HRIS system and Okta Workflows.
-- 🌱 I’m currently learning Kubernetes via Linux Foundation and Systems Programming via Georgia Tech
+- 🌱 I’m currently learning Kubernetes via Linux Foundation, and CS 6310 Software Architecture and Design @ Georgia Tech
 - 👯 I’m looking to collaborate on hackathon projects that use microservices 
 - 🤔 I’m looking for help with improving my Github presence
 - 💬 Ask me about my life in Hawaii studying at UH of Manoa and working at Condo Tech Inc
