@@ -13,4 +13,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to live and study secondary school in Mufulira, Zambia, Africa.
 
-https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif
+
