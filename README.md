@@ -4,7 +4,7 @@
 **chromilo/chromilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on integration projects using Azure Runbooks, Webhooks, Functions - for middleware integration into HRIS system and Okta Workflows.
+- 🔭 I’m currently working on HaloITSM and Okta Workflow integrations into HRIS system
 - 🌱 I’m currently configuring AWS EventBridge to write Okta logs to, and taking CS 6515 Graduate Algorithms @ Georgia Tech
 - 👯 I’m looking to collaborate on hackathon projects that use microservices 
 - 🤔 I’m looking for help with improving my Github presence
