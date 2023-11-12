@@ -11,6 +11,6 @@
 - 💬 Ask me about my life in Hawaii studying at UH of Manoa and working at Condo Tech Inc
 - 📫 How to reach me: [fill out this form](https://www.aminsolutions.com/p/contact-us.html) or [this form](https://www.chromiloamin.com/p/contact-me.html)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to live and study secondary school in Mufulira, Zambia, Africa.
+- ⚡ Fun fact: I used to live and study at a secondary school in Mufulira, Zambia, Africa.
 
 
